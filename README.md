@@ -6,3 +6,4 @@
 - [AVL 트리에 대해서 설명해주세요](https://github.com/seondal/Daily_CS/issues/4)
 - [http에 문제점이 무엇이라고 생각하시나요?](https://github.com/seondal/Daily_CS/issues/5)
 - [대표적인 sql종류 3가지에 대해서 설명하고, 종류별 명령어를 아는 만큼 나열해주세요](https://github.com/seondal/Daily_CS/issues/6)
+- [전송계층의 프로토콜인 TCP와 UDP를 특징을 설명해주세요](https://github.com/seondal/Daily_CS/issues/7)
