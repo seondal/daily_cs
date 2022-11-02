@@ -10,3 +10,4 @@
 - [context switching에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/8)
 - [캐시 교체 알고리즘에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/9)
 - [큐를 구현함에 있어 linked List 와 배열의 차이를 설명해주세요](https://github.com/seondal/Daily_CS/issues/10)
+- [인터넷과 인트라넷의 차이점에 대해서 설명해주세요](https://github.com/seondal/Daily_CS/issues/11)
