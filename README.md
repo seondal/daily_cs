@@ -13,3 +13,4 @@
 - [인터넷과 인트라넷의 차이점에 대해서 설명해주세요](https://github.com/seondal/Daily_CS/issues/11)
 - [인터럽트(interrupt)의 정의와 종류에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/12)
 - [그래프와 트리의 차이점에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/13)
+- [퀵 정렬의 구현방식, 시간복잡도, 공간복잡도, 장단점에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/14)
