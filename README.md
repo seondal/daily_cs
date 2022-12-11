@@ -14,4 +14,5 @@
 - [인터럽트(interrupt)의 정의와 종류에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/12)
 - [그래프와 트리의 차이점에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/13)
 - [퀵 정렬의 구현방식, 시간복잡도, 공간복잡도, 장단점에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/14)
+- [RDBMS와 Nosql의 차이점을 설명해주세요](https://github.com/seondal/Daily_CS/issues/15)
 - [CPU 스케줄링 알고리즘의 종류와 각각에 대해 아는대로 설명해주세요](https://github.com/seondal/Daily_CS/issues/16)
