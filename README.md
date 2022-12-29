@@ -18,3 +18,4 @@
 - [CPU 스케줄링 알고리즘의 종류와 각각에 대해 아는대로 설명해주세요](https://github.com/seondal/Daily_CS/issues/16)
 - [URL과 URI의 차이에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/17)
 - [삽입정렬의 구현방식, 시간복잡도, 공간복잡도, 장단점에 대해 설명해 주세요](https://github.com/seondal/Daily_CS/issues/18)
+- [데이터 사전(data dictionary)에 대하여 설명해주세요](https://github.com/seondal/Daily_CS/issues/19)
