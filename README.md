@@ -19,3 +19,4 @@
 - [URL과 URI의 차이에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/17)
 - [삽입정렬의 구현방식, 시간복잡도, 공간복잡도, 장단점에 대해 설명해 주세요](https://github.com/seondal/Daily_CS/issues/18)
 - [데이터 사전(data dictionary)에 대하여 설명해주세요](https://github.com/seondal/Daily_CS/issues/19)
+- [라우터와 스위치의 차이에 대하여 말씀해주세요](https://github.com/seondal/Daily_CS/issues/20)
