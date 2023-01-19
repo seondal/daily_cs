@@ -21,3 +21,4 @@
 - [데이터 사전(data dictionary)에 대하여 설명해주세요](https://github.com/seondal/Daily_CS/issues/19)
 - [라우터와 스위치의 차이에 대하여 말씀해주세요](https://github.com/seondal/Daily_CS/issues/20)
 - [CISC와 RISC의 차이에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/21)
+- [HashMap 과 HashTable의 차이를 설명해주세요](https://github.com/seondal/Daily_CS/issues/22)
