@@ -25,3 +25,4 @@
 - [버블정렬의 구현방식, 시간복잡도, 공간복잡도, 장단점에 대해 설명해 주세요](https://github.com/seondal/Daily_CS/issues/23)
 - [로깅을 이용한 데이터베이스의 회복에 대해서 간략히 설명해주세요](https://github.com/seondal/Daily_CS/issues/24)
 - [프록시에 대하여 설명해주세요](https://github.com/seondal/Daily_CS/issues/25)
+- [트랜잭션의 연산 중 Rollback의 개념을 간략히 설명해주세요](https://github.com/seondal/Daily_CS/issues/26)
