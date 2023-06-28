@@ -26,3 +26,4 @@
 - [로깅을 이용한 데이터베이스의 회복에 대해서 간략히 설명해주세요](https://github.com/seondal/Daily_CS/issues/24)
 - [프록시에 대하여 설명해주세요](https://github.com/seondal/Daily_CS/issues/25)
 - [트랜잭션의 연산 중 Rollback의 개념을 간략히 설명해주세요](https://github.com/seondal/Daily_CS/issues/26)
+- [가상메모리에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/27)
