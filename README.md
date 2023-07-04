@@ -29,3 +29,4 @@
 - [쿠키와 세션의 차이에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/27)
 - [가상메모리에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/28)
 - [LinkedList와 ArrayList의 차이점을 시간복잡도와 연관지어 설명해주세요.](https://github.com/seondal/Daily_CS/issues/29)
+- [크루스칼 알고리즘에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/30)
