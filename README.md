@@ -30,3 +30,4 @@
 - [가상메모리에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/28)
 - [LinkedList와 ArrayList의 차이점을 시간복잡도와 연관지어 설명해주세요.](https://github.com/seondal/Daily_CS/issues/29)
 - [크루스칼 알고리즘에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/30)
+- [트랜잭션의 연산 중 Commit의 개념을 간략히 설명해주세요](https://github.com/seondal/Daily_CS/issues/31)
