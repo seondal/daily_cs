@@ -33,3 +33,4 @@
 - [트랜잭션의 연산 중 Commit의 개념을 간략히 설명해주세요](https://github.com/seondal/Daily_CS/issues/31)
 - [IPv4고갈로 생겨난 서브넷팅이란 무엇인가요?](https://github.com/seondal/Daily_CS/issues/32)
 - [메모리 단편화에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/33)
+- [List, Set, Map의 차이점에 대해 설명해주세요](https://github.com/seondal/Daily_CS/issues/34)
